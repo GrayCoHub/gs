@@ -40,4 +40,4 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 [10 4]  *
 
 
-* Note: when passing a function as the arguemnt, the function will be executed. The function result will be printed as shown.
+* Note: when passing a function as the arguement, the function will be executed and the function result will be printed as shown.
