@@ -1,9 +1,11 @@
-# gs
-Revised Print Divider for assisting when coding R projects in Jupyter.
+# gs()
 
-Oftentimes when coding in Jupyter, it's easy to lose track of which line of code printed what output to the screen.
+The revised Print-Divider is useful for assisting when coding R projects in Jupyter.
 
-It can be hard to distinguish where the start  and end of the printed code occurs.
+Oftentimes when coding in Jupyter, it's easy to lose-track of which lines of code are outputed to the sreeen.  It can be hard to
+
+distinguish where the printed output from one line of code starts and printed output from another line of code ends.  
+
 
 This simple little App is a function that prints  XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX across the screen when the function is called.
 
