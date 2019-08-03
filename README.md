@@ -20,6 +20,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 [3]
 
 
+
 2) character arguement, gs("This print section is from str(df) " )
 
 Results in the following output:
@@ -27,6 +28,7 @@ Results in the following output:
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 [This print section is from str(df)]
+
 
 
 3) function arguement, gs(dim(df$varName) 
