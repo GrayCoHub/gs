@@ -9,7 +9,9 @@ This simple little App is a function that prints  XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 The function call is made to be easy, gs() , is the function call.  An arguement is required to be passed with the function call.
 
-The function call arguement cannot be empty.  The three types of call arguements follow:
+The function call arguement cannot be empty.  There are three types arguements used as follows:
+
+
 
 1) integer arguement,  gs(3)
 
@@ -21,13 +23,13 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 
 
-2) character arguement, gs("This print section is from str(df) " )
+2) character arguement, gs("This section is from the function str()")
 
 Results in the following output:
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-[This print section is from str(df)]
+[This section is from the function str()]
 
 
 
